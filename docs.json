@@ -82,8 +82,8 @@
     "global": {}
   },
   "logo": {
-    "light": "/logo/trustodian_header_light.svg",
-    "dark": "/logo/trustodian_header_dark.svg"
+    "light": "/logo/trustodian_header_light-noslogan.svg",
+    "dark": "/logo/trustodian_header_dark-noslogan.svg"
   },
   "navbar": {
     "links": [
