@@ -7,7 +7,7 @@
     "light": "#3A969E",
     "dark": "#2A6D73"
   },
-  "favicon": "/logo/logo_dark.svg",
+  "favicon": "/logo/trustodian_favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -82,8 +82,8 @@
     "global": {}
   },
   "logo": {
-    "light": "/logo/logo-light.svg",
-    "dark": "/logo/logo_dark.svg"
+    "light": "/logo/trustodian_header_light.svg",
+    "dark": "/logo/trustodian_header_dark.svg"
   },
   "navbar": {
     "links": [

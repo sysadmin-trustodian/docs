@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770 80" width="770" height="80">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1A2B5F"/>
+      <stop offset="100%" style="stop-color:#0D1A3A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Full wordmark -->
+  <text x="0" y="68" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="79" fill="url(#textGrad)" letter-spacing="2.8">
+    <tspan font-weight="700">Trust</tspan><tspan font-weight="300">odian</tspan>
+  </text>
+
+  <!-- Padlock hanging from the "o" -->
+  <g transform="translate(218, 62) rotate(-15, 14, -7)">
+    <path d="M7,0 L7,-5.5 C7,-12 11,-15.4 14.3,-15.4 C17.6,-15.4 22,-12 22,-5.5 L22,0" 
+          fill="none" stroke="#328188" stroke-width="3.3" stroke-linecap="round"/>
+    <rect x="3.3" y="-1.1" width="22" height="16.5" rx="2.8" fill="#328188"/>
+    <circle cx="14.3" cy="6.6" r="2.8" fill="#1A2B5F"/>
+    <rect x="12.7" y="7.7" width="3.3" height="4.4" rx="0.9" fill="#1A2B5F"/>
+  </g>
+
+</svg>
