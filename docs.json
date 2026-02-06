@@ -53,7 +53,8 @@
           {
             "group": "How to",
             "pages": [
-              "how-to/overview"
+              "how-to/overview",
+              "how-to/sign-in-with-google"
             ]
           }
         ]
